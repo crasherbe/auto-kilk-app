@@ -1,0 +1,6 @@
+id=event_forcestop
+name=Event ForceStop Controller
+version=1.0
+versionCode=1
+author=custom
+description=Force-stop com.fakegps.app berbasis event broadcast
